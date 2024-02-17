@@ -14,7 +14,7 @@ const Education = ({ formData, setFormData }) => {
       <form className="row g-3">
         <div className="col-md-6">
           <label for="name" className="form-label">
-            Enter your First Institute name
+            Enter your First Institute name test
           </label>
           <input
             type="text"
